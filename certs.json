@@ -1,0 +1,183 @@
+[{
+    "id": 1,
+	"name": "Administrative Assistant",
+	"type": "A.T.C.",
+	"division": "Business Technology & Service",
+    "overview_text": "#markdown",
+    "image_url": "",
+    "advising": [{
+            "name": "Casey Blamires", 
+            "title": "Assistant Professor",
+            "office": "SGC 125A", 
+            "phone": "2087922555",
+            "email": "clblamires@lcsc.edu"
+        },
+        {
+            "name": "Casey Blamires", 
+            "title": "Assistant Professor",
+            "office": "SGC 125A", 
+            "phone": "2087922555",
+            "email": "clblamires@lcsc.edu"
+        }
+    ],
+    "catalog_url": "http://catalog.lcsc.edu/professional-technical-programs/business-technology-service-division/advanced-technical-certificates/administrative-assistant/",
+    "program_url": "http://www.lcsc.edu/business-technology/degree-programs/administrative-assistant/",
+    "delivery": "online",
+    "duration": "1yr"
+}, {
+	"name": "Administrative Medical Assistant",
+	"type": "A.T.C.",
+	"division": "Business Technology & Service"
+}, {
+	"name": "Applied Accounting",
+	"type": "A.T.C.",
+	"division": "Business Technology & Service"
+}, {
+	"name": "Auto Mechanics Technology",
+	"type": "A.T.C.",
+	"division": "Technical & Industrial"
+}, {
+	"name": "Auto Mechanics Technology",
+	"type": "I.T.C.",
+	"division": "Technical & Industrial"
+}, {
+	"name": "Business Management & Marketing",
+	"type": "A.T.C.",
+	"division": "Business Technology & Service"
+}, {
+	"name": "CNC Machining Technology",
+	"type": "A.T.C.",
+	"division": "Technical & Industrial"
+}, {
+	"name": "CNC Machining Technology",
+	"type": "I.T.C.",
+	"division": "Technical & Industrial"
+}, {
+	"name": "Collision Repair Technology",
+	"type": "A.T.C.",
+	"division": "Technical & Industrial"
+}, {
+	"name": "Collision Repair Technology",
+	"type": "I.T.C.",
+	"division": "Technical & Industrial"
+}, {
+	"name": "Diesel Technology",
+	"type": "A.T.C.",
+	"division": "Technical & Industrial"
+}, {
+	"name": "Diesel Technology",
+	"type": "I.T.C.",
+	"division": "Technical & Industrial"
+}, {
+	"name": "Early Childhood Development",
+	"type": "A.T.C.",
+	"division": "Business Technology & Service"
+}, {
+	"name": "Early Childhood Development",
+	"type": "I.T.C.",
+	"division": "Business Technology & Service"
+}, {
+	"name": "Fitness",
+	"type": "CERT",
+	"division": "Movement & Sport Sciences"
+}, {
+	"name": "Food & Beverage Management",
+	"type": "I.T.C.",
+	"division": "Business Technology & Service"
+}, {
+	"name": "Heating, Venting, Air Conditioning, and Refrigeration Technology",
+	"type": "A.T.C.",
+	"division": "Technical & Industrial"
+}, {
+	"name": "Hospitality Management",
+	"type": "A.T.C.",
+	"division": "Business Technology & Service"
+}, {
+	"name": "Human Resources Management",
+	"type": "CERT",
+	"division": "Business"
+}, {
+	"name": "Industrial Electronics Technology",
+	"type": "A.T.C.",
+	"division": "Technical & Industrial"
+}, {
+	"name": "Industrial Electronics Technology",
+	"type": "I.T.C.",
+	"division": "Technical & Industrial"
+}, {
+	"name": "Industrial Maintenance-Millwright Technology",
+	"type": "A.T.C.",
+	"division": "Technical & Industrial"
+}, {
+	"name": "Legal Administrative Assistant",
+	"type": "A.T.C.",
+	"division": "Business Technology & Service"
+}, {
+	"name": "Legal Assistant",
+	"type": "I.T.C.",
+	"division": "Business Technology & Service"
+}, {
+	"name": "Marketing Management",
+	"type": "CERT",
+	"division": "Business"
+}, {
+	"name": "Medical Biller/Coder",
+	"type": "I.T.C.",
+	"division": "Business Technology & Service"
+}, {
+	"name": "Medical Receptionist",
+	"type": "I.T.C.",
+	"division": "Business Technology & Service"
+}, {
+	"name": "Medical Transcription",
+	"type": "I.T.C.",
+	"division": "Business Technology & Service"
+}, {
+	"name": "Movement Psychology",
+	"type": "CERT",
+	"division": "Movement & Sport Sciences"
+}, {
+	"name": "Office Technology",
+	"type": "I.T.C.",
+	"division": "Business Technology & Service"
+}, {
+	"name": "Paralegal",
+	"type": "I.T.C.",
+	"division": "Business Technology & Service"
+}, {
+	"name": "Pharmacy Technology",
+	"type": "I.T.C.",
+	"division": "Business Technology & Service"
+}, {
+	"name": "Professional Writing",
+	"type": "CERT",
+	"division": "Humanities"
+}, {
+	"name": "Retailing",
+	"type": "I.T.C.",
+	"division": "Business Technology & Service"
+}, {
+	"name": "Rooms Division Management",
+	"type": "I.T.C.",
+	"division": "Business Technology & Service"
+}, {
+	"name": "Sport Marketing",
+	"type": "CERT",
+	"division": "Movement & Sport Sciences"
+}, {
+	"name": "Sports Nutrition",
+	"type": "CERT",
+	"division": "Movement & Sport Sciences"
+}, {
+	"name": "Supervision",
+	"type": "I.T.C.",
+	"division": "Business Technology & Service"
+}, {
+	"name": "Welding Technology",
+	"type": "A.T.C.",
+	"division": "Technical & Industrial"
+}, {
+	"name": "Welding Technology",
+	"type": "I.T.C.",
+	"division": "Technical & Industrial"
+}]
